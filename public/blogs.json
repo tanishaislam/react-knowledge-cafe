@@ -1,0 +1,72 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/Lz4SJhv/andrew-neel-ute2-XAFQU2-I-unsplash.jpg",
+      "title": "The Art of Programming",
+      "author": "John Doe",
+      "author_img": "https://i.ibb.co/kXky5Z2/toa-heftiba-chn-w4-I3-M-unsplash.jpg",
+      "posted_date": "2022-01-01",
+      "reading_time": 7,
+      "hashtags": ["programming", "javascript", "react"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/6yjKFL9/sincerely-media-ylve-Rp-Z8-L1s-unsplash.jpg",
+      "title": "Mastering React",
+      "author": "Jane Doe",
+      "author_img": "https://i.ibb.co/cvk73xP/stephan-louis-L3s5-Qy-Sz5-UM-unsplash.jpg",
+      "posted_date": "2022-01-15",
+      "reading_time": 5,
+      "hashtags": ["react", "frontend", "webdev"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/FgYmrnR/jen-p-Fo-G8lotg7-AA-unsplash.jpg",
+      "title": "JavaScript Essentials",
+      "author": "Bob Smith",
+      "author_img": "https://i.ibb.co/SfGNMmK/samuel-raita-Ri-Dx-Dg-Hg7pw-unsplash.jpg",
+      "posted_date": "2022-02-01",
+      "reading_time": 10,
+      "hashtags": ["javascript", "webdev", "programming"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/RcP1TdS/anete-lusina-zws-Hjak-E-i-I-unsplash.jpg",
+      "title": "Understanding ES6 Modules",
+      "author": "Alice Johnson",
+      "author_img": "https://i.ibb.co/71Z2xfj/albert-dera-ILip77-Sbm-OE-unsplash.jpg",
+      "posted_date": "2022-02-15",
+      "reading_time": 8,
+      "hashtags": ["es6", "modules", "javascript"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/mtcHbsF/leone-venter-p-Vt9j3i-Wt-PM-unsplash.jpg",
+      "title": "The Power of useState and useEffect",
+      "author": "Charlie Brown",
+      "author_img": "https://i.ibb.co/B6C0sBC/philipp-wuthrich-5n3-JP9-WAJTs-unsplash-1.jpg",
+      "posted_date": "2022-03-01",
+      "reading_time": 6,
+      "hashtags": ["react", "hooks", "webdev"]
+    },
+    {
+        "id": 6,
+        "cover": "https://i.ibb.co/CJqknRg/ksenia-makagonova-Lu-K-Mu-Z-yf0-unsplash.jpg",
+        "title": "The Power of useState and useEffect",
+        "author": "Charlie Brown",
+        "author_img": "https://i.ibb.co/gF5mJM4/andrew-power-y9-L5-wmifa-Y-unsplash.jpg",
+        "posted_date": "2022-03-01",
+        "reading_time": 7,
+        "hashtags": ["react", "hooks", "webdev"]
+      },
+      {
+        "id": 7,
+        "cover": "https://i.ibb.co/VvsVQqP/ewan-robertson-f-Ds-CIIGdw9g-unsplash.jpg",
+        "title": "The Power of useState and useEffect",
+        "author": "Charlie Brown",
+        "author_img": "https://i.ibb.co/CJ2jKHk/linkedin-sales-solutions-p-At-A8xe-i-VM-unsplash.jpg",
+        "posted_date": "2022-03-01",
+        "reading_time": 5,
+        "hashtags": ["react", "hooks", "webdev"]
+      }
+  ]
