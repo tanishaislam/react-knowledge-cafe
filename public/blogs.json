@@ -1,7 +1,7 @@
 [
     {
       "id": 1,
-      "cover": "https://i.ibb.co/Lz4SJhv/andrew-neel-ute2-XAFQU2-I-unsplash.jpg",
+      "cover": "https://i.ibb.co/bF124rP/arnel-hasanovic-MNd-Rka1o0-Q-unsplash.jpg",
       "title": "The Art of Programming",
       "author": "John Doe",
       "author_img": "https://i.ibb.co/kXky5Z2/toa-heftiba-chn-w4-I3-M-unsplash.jpg",
@@ -21,7 +21,7 @@
     },
     {
       "id": 3,
-      "cover": "https://i.ibb.co/FgYmrnR/jen-p-Fo-G8lotg7-AA-unsplash.jpg",
+      "cover": "https://i.ibb.co/ccscpxb/bram-naus-n8-Qb1-ZAk-K88-unsplash.jpg",
       "title": "JavaScript Essentials",
       "author": "Bob Smith",
       "author_img": "https://i.ibb.co/SfGNMmK/samuel-raita-Ri-Dx-Dg-Hg7pw-unsplash.jpg",
